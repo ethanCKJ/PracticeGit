@@ -1,0 +1,2 @@
+I am textfile 2
+I have been changed
