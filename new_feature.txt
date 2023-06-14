@@ -1,2 +1,0 @@
-Cool new feature
-In secondBranch I am changing this feature for the second time
