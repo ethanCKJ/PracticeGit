@@ -1,3 +1,4 @@
 new feature
 I am editing this feature in a separate branch from main
+I am another developer adding a new feature
 
