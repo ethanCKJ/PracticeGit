@@ -1,0 +1,6 @@
+new feature
+I am editing this feature in a separate branch from main
+I am another adding a new feature
+This is a change
+This is another change. Edited
+This is a further change
