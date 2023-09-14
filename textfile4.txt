@@ -1,3 +1,5 @@
 I am textfile4
 Your friend has edited this file
 This has been edited
+Bad change
+
